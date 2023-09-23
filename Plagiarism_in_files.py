@@ -39,4 +39,5 @@ else:
     canvas.create_text(300, 100, text=result, fill=&quot;black&quot;, font=(&#039;Helvetica 15 bold&#039;))
     canvas.pack()
     win.mainloop()
-    print(win)
+
+#print(win)
