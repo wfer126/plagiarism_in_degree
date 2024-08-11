@@ -41,4 +41,4 @@ else:
     win.mainloop()
 
 #print(win)
-#update10.26
+#update10.27
